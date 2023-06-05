@@ -1,6 +1,7 @@
 # awesome-themes
 Ordered list of Shane's favorite IDE themes!
 
+* [Rose Pine](https://vscodethemes.com/e/mvllow.rose-pine/rose-pine?language=javascript)
 * [Nord Wave](https://vscodethemes.com/e/dnlytras.nord-wave/nord-wave?language=javascript)
 * [Moonlight](https://vscodethemes.com/e/atomiks.moonlight/moonlight?language=javascript)
 * [City Lights](https://vscodethemes.com/e/yummygum.city-lights-theme/city-lights?language=javascript)
