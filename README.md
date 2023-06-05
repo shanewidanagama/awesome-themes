@@ -1,6 +1,7 @@
 # awesome-themes
 Ordered list of Shane's favorite IDE themes!
 
+* [React Theme](https://vscodethemes.com/e/moonhealth.react-theme-faithful/react-theme?language=javascript)
 * [Rose Pine](https://vscodethemes.com/e/mvllow.rose-pine/rose-pine?language=javascript)
 * [Nord Wave](https://vscodethemes.com/e/dnlytras.nord-wave/nord-wave?language=javascript)
 * [Moonlight](https://vscodethemes.com/e/atomiks.moonlight/moonlight?language=javascript)
