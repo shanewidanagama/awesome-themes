@@ -1,6 +1,7 @@
 # awesome-themes
 Ordered list of Shane's favorite IDE themes!
 
+* [Dracula Gray](https://vscodethemes.com/e/npv2k1.theme-dracula-gray/dracula-gray?language=javascript)
 * [Github Light Theme Gray](https://vscodethemes.com/e/hyzeta.vscode-theme-github-light/github-light-theme-gray?language=javascript)
 * [Black on White](https://vscodethemes.com/e/pontus.black-on-white/black-on-white?language=javascript)
 * [One for All](https://vscodethemes.com/e/100lvlmaster.one-for-all/one-theme-for-all?language=javascript)
